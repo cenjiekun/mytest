@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <c3p0-config>
   <!-- 使用默认的配置读取连接池对象 -->
+  
+  
   <default-config>
   	<!--  连接参数 -->
     <property name="driverClass">com.mysql.jdbc.Driver</property>
